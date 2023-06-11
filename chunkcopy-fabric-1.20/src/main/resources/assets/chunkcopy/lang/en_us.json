@@ -1,0 +1,16 @@
+{
+	"chunkcopy.title": "Chunk Copy",
+	
+	"chunkcopy.feedback.copied": "[Chunk Copy] Copied %d chunks to '%s'.",
+	"chunkcopy.feedback.pasted": "[Chunk Copy] Pasted %d chunks from '%s'.",
+	"chunkcopy.feedback.filled": "[Chunk Copy] Filled %d chunks with '%s'.",
+	"chunkcopy.feedback.autochunkcopy.start_copying": "[Chunk Copy] Now auto-copying chunks to '%s'.",
+	"chunkcopy.feedback.autochunkcopy.start_pasting": "[Chunk Copy] Now auto-pasting chunks from '%s'.",
+	"chunkcopy.feedback.autochunkcopy.stop": "[Chunk Copy] Auto chunk copy has been stopped.",
+	
+	"chunkcopy.feedback.require_singleplayer": "[Chunk Copy] You need to be in single-player in order to do this.",
+	"chunkcopy.feedback.paste_file_not_found": "[Chunk Copy] Unable to paste chunks from '%s', file not found.",
+	"chunkcopy.feedback.command_exception": "[Chunk Copy] An exception was thrown while executing the command: %s",
+	
+	"chunkcopy.feedback.syntax.copypaste": "[Chunk Copy] Syntax: /<command> (copy/paste) <file_name> [chunk_distance]"
+}
